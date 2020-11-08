@@ -2,8 +2,6 @@
 #include <string>
 using namespace std;
 
-//Cach 1
-
 bool checkPrime(int numb) {
     if(numb == 1 || numb == 2) {
         return true;
